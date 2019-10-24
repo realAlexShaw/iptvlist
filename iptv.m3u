@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cctv1",CCTV-1综合
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-id="cctv2",CCTV-2财经
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:-1 tvg-id="cctv3",CCTV-3综艺
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-id="cctv4",CCTV-4中文国际
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:-1 tvg-id="cctv5+",CCTV-5+体育
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-id="cctv6",CCTV-6电影
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-id="cctv7",CCTV-7军事农业
+http://ivi.bupt.edu.cn/hls/cctv7.m3u8
+#EXTINF:-1 tvg-id="cctv8",CCTV-8电视剧
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-id="cctv9",CCTV-9记录
+http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+#EXTINF:-1 tvg-id="cctv10",CCTV-10科教
+http://ivi.bupt.edu.cn/hls/cctv10.m3u8
+#EXTINF:-1 tvg-id="cctv11",CCTV-11戏曲
+http://ivi.bupt.edu.cn/hls/cctv11.m3u8
+#EXTINF:-1 tvg-id="cctv12",CCTV-12社会与法
+http://ivi.bupt.edu.cn/hls/cctv12.m3u8
+#EXTINF:-1 tvg-id="cctv13",CCTV-13新闻
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+#EXTINF:-1 tvg-id="cctvchild",CCTV-14少儿
+http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+#EXTINF:-1 tvg-id="cctv15",CCTV-15音乐
+http://ivi.bupt.edu.cn/hls/cctv15.m3u8
