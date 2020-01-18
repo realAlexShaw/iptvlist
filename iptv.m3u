@@ -42,6 +42,6 @@ http://121.31.30.90:8085/ysten-business/live/hdjiangsustv/1.m3u8
 #EXTINF:-1 tvg-id="dongfang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/220px-Dragon_Television_%28China%29_logo.svg.png",东方卫视
 http://121.31.30.90:8085/ysten-business/live/hddongfangstv/1.m3u8
 #EXTINF:-1 tvg-id="btv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/BTV2011.jpg/200px-BTV2011.jpg",北京卫视
-http://223.110.241.203:6610/gitv/live1/G_BEIJING/G_BEIJING/?IASHttpSessionId=OTT1237320200114191940448921
+http://vss.cbnmtv.com/live/bjswsyth_1.m3u8?segmentserverid=bjswsyth_1&channelid=bjswsyth_1
 #EXTINF:-1 tvg-id="henan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png/200px-%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
 http://121.31.30.90:8085/ysten-business/live/henanstv/1.m3u8
