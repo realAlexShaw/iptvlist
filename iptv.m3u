@@ -1,8 +1,8 @@
 #EXTM3U tvg-shift=8
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/CCTV-1_Logo.png/200px-CCTV-1_Logo.png",CCTV-1 综合
-rtsp://10.254.238.106:554/PLTV/88888888/224/3221225609/10000100000000060000000000009745_0.smil
+rtsp://10.254.238.125:554/PLTV/88888888/224/3221225621/10000100000000060000000000009742_0.smil
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/200px-CCTV-2_Logo.svg.png",CCTV-2 财经
-http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
+rtsp://10.254.238.125:554/PLTV/88888888/224/3221225622/10000100000000060000000000009740_0.smil
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-3_Logo.png/200px-CCTV-3_Logo.png",CCTV-3 综艺
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 tvg-id="cctv4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/200px-CCTV-4_Logo.svg.png",CCTV-4 中文国际
@@ -10,25 +10,25 @@ http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/200px-CCTV-5_Logo.png",CCTV-5 体育
 http://39.135.135.77:80/wh7f454c46tw1932318856_-1303234238/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225711/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=692
 #EXTINF:-1 tvg-id="cctv5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/200px-CCTV-5%2B_Logo.png",CCTV-5+ 体育赛事
-http://39.135.135.9:80/wh7f454c46tw1931577159_77781399/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=813
+rtsp://10.254.238.113:554/PLTV/88888888/224/3221225623/10000100000000060000000000009741_0.smil
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/180px-CCTV-6_Logo.png",CCTV-6 电影
 http://223.110.245.159/ott.js.chinamobile.com/PLTV/3/224/3221227209/index.m3u8
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/CCTV-7_Logo.png/200px-CCTV-7_Logo.png",CCTV-7 国防军事
-http://112.50.243.8/PLTV/88888888/224/3221225805/1.m3u8
+rtsp://10.254.238.111:554/PLTV/88888888/224/3221225624/10000100000000060000000000009735_0.smil
 #EXTINF:-1 tvg-id="cctv8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/CCTV-8_Logo.png/200px-CCTV-8_Logo.png",CCTV-8 电视剧
 http://39.135.135.77:80/wh7f454c46tw1931601092_383048914/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=692
 #EXTINF:-1 tvg-id="cctv9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/11/CCTV-9_Logo.png/200px-CCTV-9_Logo.png",CCTV-9 记录
-http://39.134.65.65:80/wh7f454c46tw1931560526_35722395/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225595/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=125
+rtsp://10.254.238.124:554/PLTV/88888888/224/3221225625/10000100000000060000000000009739_0.smil
 #EXTINF:-1 tvg-id="cctv10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/CCTV-10_Logo.png/200px-CCTV-10_Logo.png",CCTV-10 科教
-http://112.50.243.8/PLTV/88888888/224/3221225814/1.m3u8
+rtsp://10.254.238.125:554/PLTV/88888888/224/3221225626/10000100000000060000000000009738_0.smil
 #EXTINF:-1 tvg-id="cctv11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-11_Logo.png/200px-CCTV-11_Logo.png",CCTV-11 戏曲
 http://39.135.135.9:80/wh7f454c46tw1931575078_1391981869/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=813
 #EXTINF:-1 tvg-id="cctv12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/CCTV-12_Logo.png/200px-CCTV-12_Logo.png",CCTV-12 社会与法
-http://223.110.245.172/PLTV/3/224/3221225556/index.m3u8
+rtsp://10.254.238.123:554/PLTV/88888888/224/3221225627/10000100000000060000000000009737_0.smil
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0b/CCTV-13_Logo.png/200px-CCTV-13_Logo.png",CCTV-13 新闻
 http://39.135.135.58:80/wh7f454c46tw1932318020_1729817978/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579029478&from=1&hms_devid=689
 #EXTINF:-1 tvg-id="cctv14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CCTV-14_Logo.png/200px-CCTV-14_Logo.png",CCTV-14 少儿
-http://223.110.245.169/PLTV/3/224/3221227201/index.m3u8
+rtsp://10.254.238.124:554/PLTV/88888888/224/3221225628/10000100000000060000000000009736_0.smil
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/200px-CCTV-15_Logo.png",CCTV-15 音乐
 http://121.31.30.90:8085/ysten-business/live/cctv-15/1.m3u8
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/special/PAGEHP1pnuSayxqIDjzBAovA190710/ELMTRGz3lC8z8vnzmWK8uLvE190710_1564579644.jpg",CCTV-17 农业农村
