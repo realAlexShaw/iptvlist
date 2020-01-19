@@ -1,6 +1,6 @@
 #EXTM3U tvg-shift=8
 #EXTINF:-1 tvg-id="cctv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/CCTV-1_Logo.png/200px-CCTV-1_Logo.png",CCTV-1 综合
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
+rtsp://10.254.238.125:554/PLTV/88888888/224/3221225621/10000100000000060000000000009742_0.smil
 #EXTINF:-1 tvg-id="cctv2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/200px-CCTV-2_Logo.svg.png",CCTV-2 财经
 http://121.31.30.90:8085/ysten-business/live/cctv-2/1.m3u8
 #EXTINF:-1 tvg-id="cctv3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-3_Logo.png/200px-CCTV-3_Logo.png",CCTV-3 综艺
