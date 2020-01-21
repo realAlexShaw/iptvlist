@@ -9,8 +9,6 @@ rtsp://10.254.193.205:554/PLTV/88888888/224/3221225846/1000010000000006000000000
 rtsp://10.254.193.113:554/PLTV/88888888/224/3221225611/10000100000000060000000000009744_0.smil
 #EXTINF:-1 tvg-id="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/200px-CCTV-5_Logo.png",CCTV-5 体育
 rtsp://10.254.193.103:554/PLTV/88888888/224/3221225840/10000100000000060000000000154411_0.smil
-#EXTINF:-1 tvg-id="cctv5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/200px-CCTV-5%2B_Logo.png",CCTV-5+ 体育赛事
-rtsp://10.254.193.222:554/PLTV/88888888/224/3221225623/10000100000000060000000000009741_0.smil
 #EXTINF:-1 tvg-id="cctv6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/180px-CCTV-6_Logo.png",CCTV-6 电影
 rtsp://10.254.193.102:554/PLTV/88888888/224/3221225841/10000100000000060000000000154410_0.smil
 #EXTINF:-1 tvg-id="cctv7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/CCTV-7_Logo.png/200px-CCTV-7_Logo.png",CCTV-7 国防军事
@@ -33,6 +31,8 @@ rtsp://10.254.193.220:554/PLTV/88888888/224/3221225628/1000010000000006000000000
 rtsp://10.254.193.202:554/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://p3.img.cctvpic.com/photoAlbum/templet/special/PAGEHP1pnuSayxqIDjzBAovA190710/ELMTRGz3lC8z8vnzmWK8uLvE190710_1564579644.jpg",CCTV-17 农业农村
 rtsp://10.254.193.207:554/PLTV/88888888/224/3221226451/10000100000000060000000002754622_0.smil
+#EXTINF:-1 tvg-id="cctv5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/200px-CCTV-5%2B_Logo.png",CCTV-5+ 体育赛事
+rtsp://10.254.193.222:554/PLTV/88888888/224/3221225623/10000100000000060000000000009741_0.smil
 #EXTINF:-1 tvg-id="hunan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/HNSTV_logo.png/155px-HNSTV_logo.png",湖南卫视
 rtsp://10.254.193.111:554/PLTV/88888888/224/3221225630/10000100000000060000000000009766_0.smil
 #EXTINF:-1 tvg-id="jiangsu" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png/150px-%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
