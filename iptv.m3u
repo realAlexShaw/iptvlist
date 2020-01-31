@@ -1,49 +1,49 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/CCTV-1_Logo.png/200px-CCTV-1_Logo.png",CCTV1
+#EXTINF:-1 tvg-id="cctv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/65/CCTV-1_Logo.png/200px-CCTV-1_Logo.png" group-title="央视",CCTV1
 rtsp://10.254.193.218:554/PLTV/88888888/224/3221225621/10000100000000060000000000009742_0.smil
-#EXTINF:-1 tvg-id="cctv2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/200px-CCTV-2_Logo.svg.png",CCTV2
+#EXTINF:-1 tvg-id="cctv2" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-2_Logo.svg/200px-CCTV-2_Logo.svg.png" group-title="央视",CCTV2
 rtsp://10.254.193.221:554/PLTV/88888888/224/3221225622/10000100000000060000000000009740_0.smil
-#EXTINF:-1 tvg-id="cctv3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-3_Logo.png/200px-CCTV-3_Logo.png",CCTV3
+#EXTINF:-1 tvg-id="cctv3" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/34/CCTV-3_Logo.png/200px-CCTV-3_Logo.png" group-title="央视",CCTV3
 rtsp://10.254.193.205:554/PLTV/88888888/224/3221225846/10000100000000060000000000154432_0.smil
-#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/200px-CCTV-4_Logo.svg.png",CCTV4
+#EXTINF:-1 tvg-id="cctv4" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/07/CCTV-4_Logo.svg/200px-CCTV-4_Logo.svg.png" group-title="央视",CCTV4
 rtsp://10.254.193.113:554/PLTV/88888888/224/3221225611/10000100000000060000000000009744_0.smil
-#EXTINF:-1 tvg-id="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/200px-CCTV-5_Logo.png",CCTV5
+#EXTINF:-1 tvg-id="cctv5" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/33/CCTV-5_Logo.png/200px-CCTV-5_Logo.png" group-title="央视",CCTV5
 rtsp://10.254.193.103:554/PLTV/88888888/224/3221225840/10000100000000060000000000154411_0.smil
-#EXTINF:-1 tvg-id="cctv5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/200px-CCTV-5%2B_Logo.png",CCTV5+
+#EXTINF:-1 tvg-id="cctv5+" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/90/CCTV-5%2B_Logo.png/200px-CCTV-5%2B_Logo.png" group-title="央视",CCTV5+
 rtsp://10.254.193.222:554/PLTV/88888888/224/3221225623/10000100000000060000000000009741_0.smil
-#EXTINF:-1 tvg-id="cctv6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/180px-CCTV-6_Logo.png",CCTV6
+#EXTINF:-1 tvg-id="cctv6" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0c/CCTV-6_Logo.png/180px-CCTV-6_Logo.png" group-title="央视",CCTV6
 rtsp://10.254.193.102:554/PLTV/88888888/224/3221225841/10000100000000060000000000154410_0.smil
-#EXTINF:-1 tvg-id="cctv7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/CCTV-7_Logo.png/200px-CCTV-7_Logo.png",CCTV7
+#EXTINF:-1 tvg-id="cctv7" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f0/CCTV-7_Logo.png/200px-CCTV-7_Logo.png" group-title="央视",CCTV7
 rtsp://10.254.193.211:554/PLTV/88888888/224/3221225624/10000100000000060000000000009735_0.smil
-#EXTINF:-1 tvg-id="cctv8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/CCTV-8_Logo.png/200px-CCTV-8_Logo.png",CCTV8
+#EXTINF:-1 tvg-id="cctv8" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/49/CCTV-8_Logo.png/200px-CCTV-8_Logo.png" group-title="央视",CCTV8
 rtsp://10.254.193.118:554/PLTV/88888888/224/3221225842/10000100000000060000000000154409_0.smil
-#EXTINF:-1 tvg-id="cctv9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/11/CCTV-9_Logo.png/200px-CCTV-9_Logo.png",CCTV9
+#EXTINF:-1 tvg-id="cctv9" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/11/CCTV-9_Logo.png/200px-CCTV-9_Logo.png" group-title="央视",CCTV9
 rtsp://10.254.193.214:554/PLTV/88888888/224/3221225625/10000100000000060000000000009739_0.smil
-#EXTINF:-1 tvg-id="cctv10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/CCTV-10_Logo.png/200px-CCTV-10_Logo.png",CCTV10
+#EXTINF:-1 tvg-id="cctv10" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/fd/CCTV-10_Logo.png/200px-CCTV-10_Logo.png" group-title="央视",CCTV10
 rtsp://10.254.193.214:554/PLTV/88888888/224/3221225626/10000100000000060000000000009738_0.smil
-#EXTINF:-1 tvg-id="cctv11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-11_Logo.png/200px-CCTV-11_Logo.png",CCTV11
+#EXTINF:-1 tvg-id="cctv11" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-11_Logo.png/200px-CCTV-11_Logo.png" group-title="央视",CCTV11
 rtsp://10.254.193.202:554/PLTV/88888888/224/3221226437/10000100000000060000000002779152_0.smil
-#EXTINF:-1 tvg-id="cctv12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/CCTV-12_Logo.png/200px-CCTV-12_Logo.png",CCTV12
+#EXTINF:-1 tvg-id="cctv12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/CCTV-12_Logo.png/200px-CCTV-12_Logo.png" group-title="央视",CCTV12
 rtsp://10.254.193.216:554/PLTV/88888888/224/3221225627/10000100000000060000000000009737_0.smil
-#EXTINF:-1 tvg-id="cctv13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0b/CCTV-13_Logo.png/200px-CCTV-13_Logo.png",CCTV13
+#EXTINF:-1 tvg-id="cctv13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0b/CCTV-13_Logo.png/200px-CCTV-13_Logo.png" group-title="央视",CCTV13
 rtsp://10.254.193.221:554/PLTV/88888888/224/3221225617/10000100000000060000000000009752_0.smil
-#EXTINF:-1 tvg-id="cctv14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CCTV-14_Logo.png/200px-CCTV-14_Logo.png",CCTV14
+#EXTINF:-1 tvg-id="cctv14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CCTV-14_Logo.png/200px-CCTV-14_Logo.png" group-title="央视",CCTV14
 rtsp://10.254.193.220:554/PLTV/88888888/224/3221225628/10000100000000060000000000009736_0.smil
-#EXTINF:-1 tvg-id="cctv15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/200px-CCTV-15_Logo.png",CCTV15
+#EXTINF:-1 tvg-id="cctv15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/200px-CCTV-15_Logo.png" group-title="央视",CCTV15
 rtsp://10.254.193.202:554/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil
-#EXTINF:-1 tvg-id="cctv17" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/200px-CCTV-17_Logo.png",CCTV17
+#EXTINF:-1 tvg-id="cctv17" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/200px-CCTV-17_Logo.png" group-title="央视",CCTV17
 rtsp://10.254.193.207:554/PLTV/88888888/224/3221226451/10000100000000060000000002754622_0.smil
-#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/200px-CGTN.svg.png",CGTN
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/200px-CGTN.svg.png" group-title="央视",CGTN
 rtsp://10.254.193.208:554/PLTV/88888888/224/3221225620/10000100000000060000000000009743_0.smil
-#EXTINF:-1 tvg-id="hunan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/HNSTV_logo.png/155px-HNSTV_logo.png",湖南卫视
+#EXTINF:-1 tvg-id="hunan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/HNSTV_logo.png/155px-HNSTV_logo.png" group-title="卫视",湖南卫视
 rtsp://10.254.193.111:554/PLTV/88888888/224/3221225630/10000100000000060000000000009766_0.smil
-#EXTINF:-1 tvg-id="zhejiang" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/ZTV_logo.png/155px-ZTV_logo.png",浙江卫视
+#EXTINF:-1 tvg-id="zhejiang" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/ZTV_logo.png/155px-ZTV_logo.png" group-title="卫视",浙江卫视
 rtsp://10.254.193.122:554/PLTV/88888888/224/3221225632/10000100000000060000000000009761_0.smil
-#EXTINF:-1 tvg-id="jiangsu" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png/150px-%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png",江苏卫视
+#EXTINF:-1 tvg-id="jiangsu" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/75/%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png/150px-%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86.png" group-title="卫视",江苏卫视
 rtsp://10.254.193.214:554/PLTV/88888888/224/3221225631/10000100000000060000000000009763_0.smil
-#EXTINF:-1 tvg-id="btv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/BTV2011.jpg/200px-BTV2011.jpg",北京卫视
+#EXTINF:-1 tvg-id="btv1" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/e4/BTV2011.jpg/200px-BTV2011.jpg" group-title="卫视",北京卫视
 rtsp://10.254.193.120:554/PLTV/88888888/224/3221225629/10000100000000060000000000009767_0.smil
-#EXTINF:-1 tvg-id="dongfang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/220px-Dragon_Television_%28China%29_logo.svg.png",东方卫视
+#EXTINF:-1 tvg-id="dongfang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dragon_Television_%28China%29_logo.svg/220px-Dragon_Television_%28China%29_logo.svg.png" group-title="卫视",东方卫视
 rtsp://10.254.193.113:554/PLTV/88888888/224/3221225633/10000100000000060000000000009762_0.smil
-#EXTINF:-1 tvg-id="henan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png/200px-%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png",河南卫视
+#EXTINF:-1 tvg-id="henan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png/200px-%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86.png" group-title="卫视",河南卫视
 rtsp://10.254.193.122:554/PLTV/88888888/224/3221225819/10000100000000060000000000154392_0.smil
