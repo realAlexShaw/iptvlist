@@ -33,6 +33,8 @@ rtsp://10.254.193.220:554/PLTV/88888888/224/3221225628/1000010000000006000000000
 rtsp://10.254.193.202:554/PLTV/88888888/224/3221226463/10000100000000060000000002779151_0.smil
 #EXTINF:-1 tvg-id="cctv17" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3c/CCTV-17_Logo.png/200px-CCTV-17_Logo.png",CCTV17
 rtsp://10.254.193.207:554/PLTV/88888888/224/3221226451/10000100000000060000000002754622_0.smil
+#EXTINF:-1 tvg-id="cgtn" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/200px-CGTN.svg.png",CGTN
+rtsp://10.254.193.208:554/PLTV/88888888/224/3221225620/10000100000000060000000000009743_0.smil
 #EXTINF:-1 tvg-id="hunan" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/15/HNSTV_logo.png/155px-HNSTV_logo.png",湖南卫视
 rtsp://10.254.193.111:554/PLTV/88888888/224/3221225630/10000100000000060000000000009766_0.smil
 #EXTINF:-1 tvg-id="zhejiang" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/66/ZTV_logo.png/155px-ZTV_logo.png",浙江卫视
