@@ -26,7 +26,7 @@ rtsp://10.254.193.202:554/PLTV/88888888/224/3221226437/1000010000000006000000000
 #EXTINF:-1 tvg-id="cctv12" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/71/CCTV-12_Logo.png/200px-CCTV-12_Logo.png" group-title="CCTV",CCTV12
 rtsp://10.254.193.216:554/PLTV/88888888/224/3221225627/10000100000000060000000000009737_0.smil
 #EXTINF:-1 tvg-id="cctv13" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0b/CCTV-13_Logo.png/200px-CCTV-13_Logo.png" group-title="CCTV",CCTV13
-rtsp://10.254.193.221:554/PLTV/88888888/224/3221225617/10000100000000060000000000009752_0.smil
+rtsp://10.254.192.221:554/PLTV/88888888/224/3221226521/10000100000000060000000004577862_0.smil
 #EXTINF:-1 tvg-id="cctv14" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/c/c8/CCTV-14_Logo.png/200px-CCTV-14_Logo.png" group-title="CCTV",CCTV14
 rtsp://10.254.193.220:554/PLTV/88888888/224/3221225628/10000100000000060000000000009736_0.smil
 #EXTINF:-1 tvg-id="cctv15" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f8/CCTV-15_Logo.png/200px-CCTV-15_Logo.png" group-title="CCTV",CCTV15
